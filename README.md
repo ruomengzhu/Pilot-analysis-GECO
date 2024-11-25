@@ -12,5 +12,5 @@ Word2Vec Model Training
 - Semantic Analysis: The model computed word similarities using cosine similarity.
 
 GPT-2 Model Fine-Tuning
-- Loading Pre-trained GPT-2: A pre-trained GPT-2 model from the HuggingFace Transformers library was used as the base.
+- Loading Pre-trained GPT-2: A pre-trained GPT-2 model (pre-trained distilgpt2 model) from the HuggingFace Transformers library was used as the base.
 - Fine-Tuning: The GPT-2 model was fine-tuned on the same English text material from the GECO corpus to adapt it to the specific language patterns in the dataset.
