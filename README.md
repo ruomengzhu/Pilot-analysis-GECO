@@ -1,6 +1,7 @@
 # Pilot-analysis-GECO-ENG
 
 Pilot analysis_GECO_Eng (W2V-semantics).ipynb: A Jupyter notebook for training a traditional Word2Vec model and analyzing semantic associations.
+
 Pilot analysis_GECO_Eng (GPT2).ipynb: A Jupyter notebook for fine-tuning a GPT-2 model.
 
 EnglishMaterial.xlsx: An Excel file containing text data used to train the Word2Vec model and to fine-tune the gpt2 model.
