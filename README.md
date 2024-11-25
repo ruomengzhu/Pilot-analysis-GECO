@@ -1,4 +1,4 @@
-# Pilot-analysis-GECO
+# Pilot-analysis-GECO-ENG
 
 semantic_associations.ipynb: A Jupyter notebook for training a traditional Word2Vec model and analyzing semantic associations.
 gpt2_finetuning.ipynb: A Jupyter notebook for fine-tuning a GPT-2 model.
